@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atorras1618/Miscellaneous-TDA-notebooks/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/atorras1618/Miscellaneous-TDA-notebooks/HEAD
 
 Welcome to this introductory material to TDA!
 
