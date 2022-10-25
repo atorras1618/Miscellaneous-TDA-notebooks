@@ -1,5 +1,6 @@
-scipy
+python>=3.8scipy
 numpy
 matplotlib
 scikit-tda
 phat
+cechmate
