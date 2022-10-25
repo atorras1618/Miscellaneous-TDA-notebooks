@@ -1,7 +1,5 @@
-python>=3.8
 scipy
 numpy
 matplotlib
 scikit-tda
-phat
-cechmate
+gudhi
